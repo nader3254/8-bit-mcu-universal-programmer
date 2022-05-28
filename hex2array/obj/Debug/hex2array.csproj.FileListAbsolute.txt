@@ -1,0 +1,14 @@
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.csprojAssemblyReference.cache
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.Form1.resources
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.Properties.Resources.resources
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.csproj.GenerateResource.cache
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.csproj.CoreCompileInputs.cache
+F:\projects\tetris me\hex2array\hex2array\bin\Debug\hex2array.exe.config
+F:\projects\tetris me\hex2array\hex2array\bin\Debug\hex2array.exe
+F:\projects\tetris me\hex2array\hex2array\bin\Debug\hex2array.pdb
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.exe
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.pdb
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.Form2.resources
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.outputdisplayer.resources
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.status.resources
+F:\projects\tetris me\hex2array\hex2array\obj\Debug\hex2array.flasher.resources
